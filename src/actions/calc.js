@@ -5,3 +5,7 @@ export const add = (num) => {
 export const minus = (num) => {
   return num - 1;
 };
+
+export const customAdd = (num, customNum) => {
+  return num + customNum;
+};
