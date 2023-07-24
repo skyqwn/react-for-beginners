@@ -18,7 +18,7 @@ const Home = () => {
   }, []);
   return (
     <div>
-      <h1>Movies!</h1>
+      <h1>영화들~~</h1>
       {loading ? (
         <h3>Loading...</h3>
       ) : (
